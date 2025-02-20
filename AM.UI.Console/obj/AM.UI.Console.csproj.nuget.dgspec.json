@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.UI.Console\\AM.UI.Console.csproj": {}
+    "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.UI.Console\\AM.UI.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+    "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "projectName": "AM.ApplicationCore",
-        "projectPath": "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\marye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\obj\\",
+        "projectPath": "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\safa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\marye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\safa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,20 +69,20 @@
         }
       }
     },
-    "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.UI.Console\\AM.UI.Console.csproj": {
+    "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.UI.Console\\AM.UI.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.UI.Console\\AM.UI.Console.csproj",
+        "projectUniqueName": "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.UI.Console\\AM.UI.Console.csproj",
         "projectName": "AM.UI.Console",
-        "projectPath": "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.UI.Console\\AM.UI.Console.csproj",
-        "packagesPath": "C:\\Users\\marye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.UI.Console\\obj\\",
+        "projectPath": "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.UI.Console\\AM.UI.Console.csproj",
+        "packagesPath": "C:\\Users\\safa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.UI.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\marye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\safa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\marye\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
+              "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\safa\\source\\repos\\AM.UI.Console\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
               }
             }
           }

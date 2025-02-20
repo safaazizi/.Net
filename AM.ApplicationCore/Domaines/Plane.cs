@@ -9,21 +9,19 @@ namespace AM.ApplicationCore.Domaine
 {
     //method 1 : creation of en enum
     //method 2 : create an enum under directory domain
-    public enum PlaneType
+   /* public enum PlaneType
     {
         Boeing,Airbus
-    }
+    }*/
     public class Plane
     {
         public Plane() { }
        
 
-        public Plane(int capacity, DateTime manufactureDate, int planeId, PlaneType planeType)
-        {
+        public Plane(PlaneType planeType, int capacity, DateTime manufactureDate)
+        {  PlaneType = planeType;
             Capacity = capacity;
             ManufactureDate = manufactureDate;
-            PlaneId = planeId;
-            PlaneType = planeType;
         }
 
         public int Capacity { get; set; }
@@ -33,8 +31,9 @@ namespace AM.ApplicationCore.Domaine
         public ICollection<Flight> Flights { get; set; }
         public override string ToString()
         {
-            return "Capacity: "+Capacity+" PlaneType"+PlaneType+"ManufactureDate: "+ManufactureDate;
+            return "Capacity: "+Capacity+" PlaneType: "+PlaneType+"ManufactureDate: "+ManufactureDate;
 
         }
+
     }
 }
